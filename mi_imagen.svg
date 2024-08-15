@@ -1,0 +1,13 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rectángulo -->
+  <rect x="50" y="50" width="150" height="100" fill="lightblue" stroke="black" stroke-width="2"/>
+  
+  <!-- Círculo -->
+  <circle cx="250" cy="150" r="50" fill="lightgreen" stroke="black" stroke-width="2"/>
+  
+  <!-- Línea -->
+  <line x1="50" y1="200" x2="200" y2="300" stroke="red" stroke-width="3"/>
+  
+  <!-- Texto -->
+  <text x="50" y="350" font-family="Verdana" font-size="20" fill="black">Prueba Ejemplo </text>
+</svg>
